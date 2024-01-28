@@ -15,7 +15,8 @@ do curso Versionamento de Código com Git e Github da
 |-------|---------|
 | Gravando alterações no Repositório Local | [Resumos](https://github.com/Dannydlira/repo-remote) |
 
-```git init
+```
+git init
 ```
 ## 🔍 Referências
 
